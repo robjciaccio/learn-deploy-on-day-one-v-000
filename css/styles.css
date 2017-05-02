@@ -133,6 +133,13 @@ a:visited {
   height: 400px;
 }
 
+#robert-ciaccio-card {
+  background-image: url("http://i.imgur.com/AzOMZ3p.png")
+}
+#robert-ciaccio-cover {
+  background-image: url("http://i.imgur.com/yHnncjn.jpg")
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
